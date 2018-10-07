@@ -2,7 +2,7 @@
 cars = 100
 drivers = 30
 passengers = 90
-space_in_a_car = 4.0
+space_in_a_car = 4
 
 cars_driven = drivers
 cars_not_driven = cars - drivers
